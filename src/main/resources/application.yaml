@@ -6,7 +6,6 @@ logging:
   level:
     root: INFO
     co.develhope.logging.services: DEBUG
-customEnvs:
-  n1: 2
-  n2: 8
+n1: 2
+n2: 8
 
